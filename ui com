@@ -1,0 +1,7 @@
+1 code.com
+txt = • 1 #1
+txt = • 2 #2
+<2> = username = not command
+<1> username = not command
+game:GetService("StarterGui"):SetCore("DevConsoleVisible", true)
+==================================================================
