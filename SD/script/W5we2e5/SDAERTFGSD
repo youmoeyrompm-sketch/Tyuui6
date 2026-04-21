@@ -1,0 +1,14 @@
+<zin$>
+ <type>
+   type = {[SD==sd.script # = (system)]}
+   type = 1=\7-//{[(#0000)]} gui localisation >[<1|2|1|5|6|9|0|2|0|4>]
+ </type>
+ <script>
+   system type = [{~1=h/0~7}all]
+   system = SD / mod / y&/0do;
+   File system = File *(storage/emulated/0/AFTdata/data/mod/APscript.mod)
+   require(121425622240385)
+   APscript.mod *=[]\local/60/p/s/*
+  system #607647643764332356887654
+</script>
+</zin$>
