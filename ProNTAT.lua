@@ -181,7 +181,7 @@ end)
 
 Clear.MouseButton1Click:Connect(function()
 
-	Edit.Text = "codeLua();"
+	Edit.Text = ""
 
 end)
 ----------------------------------------------------
